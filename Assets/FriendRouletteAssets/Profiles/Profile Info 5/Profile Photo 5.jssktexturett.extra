@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "42da9b27-a18a-be00-8ede-6f1878caaaa9",
+      "b": ""
+    },
+    "extraType": "JSAssetSocialKitTextureTT",
+    "name": "Profile Photo 5",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

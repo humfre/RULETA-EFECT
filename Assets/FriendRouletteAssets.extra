@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "1e877fc8-e5c7-ec84-5889-4db9e9063661",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "FriendRouletteAssets",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

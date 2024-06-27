@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "368a2b25-7bf2-03d1-6d42-d92cf2128fdb",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Border_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

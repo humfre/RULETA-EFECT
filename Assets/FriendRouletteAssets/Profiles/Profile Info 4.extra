@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "df59699c-dfb8-e6a7-9bcb-07078cf5efd3",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Profile Info 4",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "c4607c92-c9b8-0525-4de6-d57dd7b68cc1",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "RBD - Sálvame (mp3cut.net)",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

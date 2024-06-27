@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7dc89078-7939-20f8-a24b-d705ed70f2f4",
+      "b": ""
+    },
+    "extraType": "JSAssetSocialKitTextureTT",
+    "name": "Username 1",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]
